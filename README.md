@@ -4,9 +4,7 @@ This is the bitcoin hash miner. You can mine bitcoin hashes. Just give the block
 ### Requirements
 Python 3.8
 
-Libraries
--hashlib
--time
+Libraries: hashlib, time
 
 ### Signature
 <a href="https://emiralanyalioglu.com">
